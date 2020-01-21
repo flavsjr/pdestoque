@@ -2,13 +2,13 @@
 PD - Controle de Estoque
 
 
-## Como rodar ?
+## Como rodar o projeto?
 
-*. Clonar o repositório.
-*. Crie um virtualenv com Python3
-*. Ativar o virtualenv.
-*. Instale as dependências.
-*. Rode as migrações.
+* Clonar o repositório.
+* Crie um virtualenv com Python3
+* Ativar o virtualenv.
+* Instale as dependências.
+* Rode as migrações.
 
 ```
 git clone https://github.com/flavsjr/pdestoque.git
