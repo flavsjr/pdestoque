@@ -25,3 +25,7 @@ python manage.py migrate
 [python-decouple](https://github.com/henriquebastos/python-decouple)
 
 [package-of-the-week-python-decouple](https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html)
+
+[tutoriais-basicos-django](github.com/rg3915/tutoriais django-basic)
+
+[bootstrap starter-template](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
